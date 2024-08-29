@@ -1,5 +1,14 @@
 - 👋 Hi, I’m Zechariah Winters
-- I'm studying software development at IvyTech. If everything goes according to plan, I'll get my software development certificate in May 2025. From there, I plan on getting a job in the field and working towards an associate's degree in software development. I'm learning C++ and actively developing a game in my spare time. 
+- I'm studying software development at IvyTech. If everything goes according to plan, I'll get my software development certificate in May 2025. From there, I plan on getting a job in the field and working towards an associate's degree in software development.
+-
+-INTERESTS
+- I'm learning C++ and developing a game in my spare time.
+
+- TECHNOLOGIES
+- Unreal Engine 5.4 visual Blueprints
+
+- FUN FACT
+- I play Saxophone
 
 <!---
 zwintersS/zwintersS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
