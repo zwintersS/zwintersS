@@ -2,12 +2,12 @@
 I'm studying software development at IvyTech. If everything goes according to plan, I'll get my software development certificate in May 2025. From there, I plan on getting a job in the field and working towards an associate's degree in software development.
   
 # INTERESTS
- I'm learning C++ and developing a game in my spare time.
+ I'm learning C++ and developing a game in my spare time. I'm interested in learning how to combine Generative AI with code for new and exciting applications. I'm also an aspiring game dev. 
 
 # TECHNOLOGIES
-Unreal Engine 5.4 Visual Blueprints
-C++
-Python
+1) Unreal Engine 5.4 Visual Blueprints
+2) C++
+3) Python
 
 # LINKS
 [LinkedIN](https://www.linkedin.com/in/zechariah-winters-598094265/)
